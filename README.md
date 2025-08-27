@@ -37,11 +37,6 @@
 
 -----
 
-
-
-
------
-
 <div>
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
@@ -50,13 +45,13 @@
 <table>
 <tr>
  <!-- <td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td> -->
- <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
+ <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@caueafonsomoraes">WakaTime</a></td>
 </tr> 
 <tr>
 <!-- <td><img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/></td> -->
-<td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&langs_count=12"/></td>
+<td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=caueafonsomoraes&theme=dark&langs_count=12"/></td>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=caueafonsomoraes&theme=dark&layout=compact"/>
 </td>
 </tr>
 </table>
