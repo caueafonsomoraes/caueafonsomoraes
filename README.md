@@ -144,4 +144,6 @@
 
 ----
 
-<img width="100” alt="Profile visitors" src="https://komarev.com/ghpvc/?username=caueafonsomoraes" />
+<img width="100" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=caueafonsomoraes" />
+
+
