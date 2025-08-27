@@ -32,7 +32,9 @@
 </div>
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Caue</code>, tenho 23 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:
+<i><b>Olá</b> :wave:, sou o <code>Caue</code>, tenho 23 anos, moro em BH e estudo Engenharia de Software na PUC Minas. Sou apaixonado por tecnologia, inovação e tudo que envolve resolver problemas de forma criativa.
+ No dia a dia, gosto de aprender coisas novas, trabalhar em equipe e encarar desafios como oportunidades.
+ Ah, e além da tecnologia, curto música, esportes, culinária e viagens. 🎶⚽🍳✈️
 </div>
 
 -----
